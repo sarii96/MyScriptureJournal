@@ -55,9 +55,9 @@ button.accept-policy {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  position: relative;
-  min-height: 100%;
-  background-color:antiquewhite;
+    position: relative;
+    min-height: 100%;
+    background-color: whitesmoke
 }
 
 
